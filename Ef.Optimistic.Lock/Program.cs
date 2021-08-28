@@ -1,9 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System;
+﻿using System;
 using System.Linq;
-using static Demo.Sync.OfficeContext;
 
-namespace Demo.Sync
+namespace Ef.Optimistic.Lock
 {
     class Program
     {
